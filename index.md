@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## 象朝の历史
 
-You can use the [editor on GitHub](https://github.com/DaXiangNB/Xianghistory/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+公元前4070年
 
-### Markdown
+有一个叫肾朝的朝代
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+人们以肾好为荣
 
-```markdown
-Syntax highlighted code block
+以肾虚为耻
 
-# Header 1
-## Header 2
-### Header 3
+他们有一位所向披靡的国王，保护着子民，
+子民快乐地生活在王的保护下。
 
-- Bulleted
-- List
+直到有一天
 
-1. Numbered
-2. List
+人们爱戴的王年事已迈，王开始想办法寻求长生不老。
+他找到了炼金师，想寻求长生不老的方法。
+炼金师告诉他，长生不老，需要用大量肉体做实验，
+以及需要大量的一种叫红水晶的矿石。
 
-**Bold** and _Italic_ and `Code` text
+于是，国王以开采矿为由，大量征用苦力，为了
+得到肉体，他处死大量刑犯，用作于实验。
 
-[Link](url) and ![Image](src)
-```
+在这些被王欺压的人民中，有一个叫谢忠霖的青年。
+他不甘于人民处于水生火热之中，于是，他创造了
+一个神教—象教，象教主旨在于象长为荣，象短为
+耻。谢忠霖用传播象教的方法，招揽了大批信徒。
+象教在肾朝中愈发愈壮大。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+一天，谢忠霖站在象郡城中央广场，台下是他的信徒，
+“教徒们，我们的王欺骗了我们，肾朝的主旨将这个
+帝国引向了深渊，再这样下去，帝国将万劫不复，
+唯有象教可以拯救这个失落的王国，信徒们，让我们
+拿起武器，用大象来拯救这个帝国！”
 
-### Jekyll Themes
+人民们拿起武器，欢呼着“象教万岁！”“谢忠霖万岁！”
+一步一步踏向了皇宫。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DaXiangNB/Xianghistory/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+此时的王，已经无人相信，连最信任的士兵也对他充满了
+失望。
 
-### Support or Contact
+人民把王的头踏在脚下，用欢呼声庆祝了一个新的帝国的
+建立！
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+象朝帝国！
+
+谢忠霖在人民的欢呼中，在人民的拥戴中，登基成为了“
+象 谢 长 污 忠霖帝！”
